@@ -13,7 +13,7 @@
   - [Key Map Data Model](#key-map-data-model)
   - [Key-value Data Model](#key-value-data-model)
   - [Graph Data Model](#graph-data-model)
-  - [Datbases](#databases)
+  - [Databases](#databases)
   - [Columnar Databases](#columnar-databases)
   - [NewSQL Databases](#newsql-databases)
   - [Time-Series Databases](#time-series-databases)
