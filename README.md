@@ -3,6 +3,7 @@
 > Welcome To The World of Data Engineeing Collection®. A collection of awesome software, libraries, Learning Tutorials, documents, books, resources and interesting stuff about Big Data Science & Engineering. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
+##  `Table of Contents `
 
 - [Data Engineering](#data-engineering)
   - [RDBMS](#rdbms)
@@ -49,13 +50,13 @@
     - [Data Visualization](#data-visualization-1)
 - [Other Awesome Lists](#other-awesome-lists)
 
-## RDBMS
+##  `RDBMS `
 * [MySQL](https://www.mysql.com/) The world's most popular open source database.
 * [PostgreSQL](https://www.postgresql.org/) The world's most advanced open source database.
 * [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 * [Teradata](http://www.teradata.com/products-and-services/teradata-database/) - high-performance MPP data warehouse platform.
 
-## Frameworks
+##  `Frameworks `
 
 * [Bistro](https://github.com/facebook/bistro) - general-purpose data processing engine for both batch and stream analytics. It is based on a novel data model, which represents data via *functions* and processes data via *column operations* as opposed to having only set operations in conventional approaches like MapReduce or SQL.
 * [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) - platform for distributed processing and real-time analytics.  Integrates with many of the popular technologies in the Big Data ecosystem (Kafka, HDFS, Spark, etc.)
@@ -65,7 +66,7 @@
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 * [Smooks](https://github.com/smooks/smooks) - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications.
 
-## Distributed Programming
+##  `Distributed Programming `
 
 * [AddThis Hydra](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
 * [AMPLab SIMR](http://databricks.github.io/simr/) - run Spark on Hadoop MapReduce v1.
@@ -122,7 +123,7 @@
 * [Twitter TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) - TimeSeries AggregatoR by Twitter.
 * [Wallaroo](http://www.wallaroolabs.com/community) - The ultrafast and elastic data processing engine. Big or fast data - no fuss, no Java needed.
 
-## Distributed Filesystem
+##  `Distributed Filesystem `
 
 * [Ambry](https://github.com/linkedin/ambry) - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
@@ -143,11 +144,11 @@
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - decentralized cloud storage system.
 * [Baidu File System](https://github.com/baidu/bfs) - distributed filesystem.
 
-## Distributed Index
+##  `Distributed Index `
 
 * [Pilosa](https://github.com/pilosa/pilosa) Open source distributed bitmap index that dramatically accelerates queries across multiple, massive data sets. 
 
-## Document Data Model
+##  `Document Data Model `
 
 * [Actian Versant](https://www.actian.com/data-management/ingres-sql-rdbms/) - commercial object-oriented database management systems .
 * [Crate Data](https://crate.io/) - is an open source massively scalable data store. It requires zero administration.
@@ -160,7 +161,7 @@
 * [RavenDB](https://ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](https://rethinkdb.com/) - document database that supports queries like table joins and group by.
 
-## Key Map Data Model
+##  `Key Map Data Model `
 
 **Note**: There is some term confusion in the industry, and two different things are called "Columnar Databases". Some, listed here, are distributed, persistent databases built around the "key-map" data model: all data has a (possibly composite) key, with which a map of key-value pairs is associated. In some systems, multiple such value maps can be associated with a key, and these maps are referred to as "column families" (with value map keys being referred to as "columns").
 
