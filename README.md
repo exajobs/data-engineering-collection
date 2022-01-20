@@ -315,7 +315,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 	* [TimescaleDB](https://www.timescale.com/): Built as an extension on top of PostgreSQL, TimescaleDB is a time-series SQL database providing fast analytics, scalability, with automated data management on a proven storage engine.
 
 
-## Columnar Databases
+## `Columnar Databases`
 
 **Note** please read the note on [Key-Map Data Model](#key-map-data-model) section.
 
@@ -333,7 +333,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [IndexR](https://github.com/shunfei/indexr) - an open-source columnar storage format for fast & realtime analytic with big data.
 * [LocustDB](https://github.com/cswinter/LocustDB) - an experimental analytics database aiming to set a new standard for query performance on commodity hardware. 
 
-## NewSQL Databases
+## `NewSQL Databases`
 
 * [Actian Ingres](http://www.actian.com/products/operational-databases/) - commercially supported, open-source SQL relational database management system.
 * [ActorDB](https://github.com/biokoda/actordb) - a distributed SQL database with the scalability of a KV store, while keeping the query capabilities of a relational database.
